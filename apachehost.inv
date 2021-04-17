@@ -1,0 +1,2 @@
+[apachehost]
+172.31.17.200 ansible_user=ec2-user
